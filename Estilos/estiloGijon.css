@@ -1,0 +1,174 @@
+nav{
+    font-family: 'Raleway';
+}
+
+nav ul {
+    display: flex;
+    text-align: center;
+    padding: 10px;
+    list-style: none;
+    width: 100%;
+    margin: auto;
+}
+
+nav li {
+    list-style: none;
+    margin-left: 10%;
+}
+  
+nav li a {
+    text-decoration: none;
+    color: white;
+}
+
+.nav_fondo {
+    background-color: rgb(233, 0, 0);
+    width: 90%;
+    height: 40px;
+    margin: auto;
+    margin-bottom: 25px;
+}
+
+header {
+    background-image: url("../Imagenes/header.png");
+    font-family: 'Dancing Script';
+    color: rgb(103, 12, 12);
+}
+
+div.Titulo{
+    text-align: center;
+    padding-top: 25px;
+    width: 100%;
+    height: 450px;
+    font-size: 200px;
+}
+
+.separador{
+    background-color: rgb(224, 0, 0);
+    color: white;
+    width: 90%;
+    padding: 2px;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+main{
+    width: 90%;
+    margin: auto;
+    text-align: justify;
+}
+
+.titulo1{
+    font-size: 30px;
+    font-family: 'Raleway';
+    margin-bottom: 10px;
+}
+
+.titulo2{
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Raleway';
+}
+
+.texto{
+    font-family: 'Open Sans', serif;
+    font-size: 16px;
+}
+
+.transporte{
+    width: 90%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+#urbano{
+    float: left;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#renfe{
+    float: right;
+    margin-left: 10px;
+    height: 300px;
+}
+
+.cultura{
+    width: 90%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+#laboral{
+    float: left;
+    margin-right: 25px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    height: 300px;
+}
+
+.fiestas{
+    width: 90%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+#antroxu{
+    float: right;
+    margin-left: 10px;
+    height: 300px;
+}
+
+#sidra{
+    float: left;
+    margin-right: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+}
+
+.botanico{
+    width: 90%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.contacto{
+    width: 90%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+fieldset{
+    display: inline-block;
+    width: 100%;
+}
+
+#mensaje{
+    height: 300px;
+    width: 70%;
+}
+
+article{
+    margin-bottom: 15px;
+}
+
+#subir img{
+    width: 16px;
+    height: 16px;
+    position: fixed;
+    top: 95%;
+}
+
+footer{
+    margin-top: 25px;
+    height: 200px;
+    background-color: rgb(224, 0, 0);
+    text-align: center;
+    font-family: 'Dancing Script';
+    color: white;
+    font-size: 50px;
+    padding-top: 50px;
+}
